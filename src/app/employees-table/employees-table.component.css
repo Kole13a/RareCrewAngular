@@ -1,0 +1,23 @@
+.styled-table {
+    border-collapse: collapse;
+    width: 65%; 
+    margin: 25px auto; 
+    font-size: 18px;
+    text-align: left;
+    border: 1px black solid;
+  }
+  
+.styled-table th, .styled-table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+  
+.styled-table th {
+    background-color: #e5e5e5;
+    color: black;
+}
+
+.less-than-100-hours {
+    background-color: #f2ac9d;
+}
+  
